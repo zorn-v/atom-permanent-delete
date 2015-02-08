@@ -2,7 +2,7 @@
   "name": "permanent-delete",
   "main": "./lib/permanent-delete",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Bypass the recycle bin",
   "repository": "https://github.com/olmokramer/atom-permanent-delete",
   "license": "MIT",
   "engines": {

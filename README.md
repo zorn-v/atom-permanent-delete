@@ -1,6 +1,6 @@
 # permanent-delete package
 
-Permanently delete files from the tree view.
+Permanently delete, i.e. bypass the recycle bin, files from the tree view.
 
 ## Config
 
