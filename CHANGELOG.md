@@ -1,3 +1,6 @@
+## 0.1.2
+* Removed a `console.log`
+
 ## 0.1.1
 * Updated readme
 * Added package description to `package.json`
