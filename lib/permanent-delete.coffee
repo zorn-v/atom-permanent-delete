@@ -13,7 +13,6 @@ module.exports = AtomPermanentDelete =
   activate: (state) ->
     @subs = new CompositeDisposable
     @subs.add atom.commands.add 'atom-workspace', 'permanent-delete:delete': => @delete()
-    console.log atom.config.get 'permanent-delete.confirmDelete'
 
   deactivate: ->
     @subs.dispose()
