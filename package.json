@@ -1,7 +1,7 @@
 {
   "name": "permanent-delete",
   "main": "./lib/permanent-delete",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Bypass the recycle bin",
   "repository": "https://github.com/olmokramer/atom-permanent-delete",
   "license": "MIT",
@@ -12,6 +12,8 @@
     "fs-plus": "^2.5.0"
   },
   "activationCommands": {
-    "atom-workspace": [ "permanent-delete:delete" ]
+    "atom-workspace": [
+      "permanent-delete:delete"
+    ]
   }
 }
