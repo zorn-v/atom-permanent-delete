@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "fs-plus": "^2.5.0"
+  },
+  "activationCommands": {
+    "atom-workspace": [ "permanent-delete:delete" ]
   }
 }
