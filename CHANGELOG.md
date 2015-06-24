@@ -1,3 +1,7 @@
+## 0.1.3
+* Add activationCommands
+* Fix #2 / #3
+
 ## 0.1.2
 * Removed a `console.log`
 
