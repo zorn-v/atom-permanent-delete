@@ -1,3 +1,6 @@
+## 0.1.4
+* Merge #4
+
 ## 0.1.3
 * Add activationCommands
 * Fix #2 / #3
