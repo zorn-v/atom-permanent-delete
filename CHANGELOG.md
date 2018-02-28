@@ -1,3 +1,6 @@
+## 0.1.7
+* Use fs-plus.remove instead own implementation. Fixes symlink issues
+
 ## 0.1.6
 * Fix for Atom 1.17
 

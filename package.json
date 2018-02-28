@@ -9,7 +9,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "fs-plus": "^2.5.0"
+    "fs-plus": "^2.6.0"
   },
   "activationCommands": {
     "atom-workspace": [
